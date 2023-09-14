@@ -1,0 +1,11 @@
+{
+  "collections": [
+    {
+      "name": "primaryMenuItem",
+      "fields": {
+        "label": { "type": "string", "required": true },
+        "url": { "type": "string", "unique": true, "required": true }
+      }
+    }
+  ]
+}

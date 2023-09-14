@@ -1,0 +1,9 @@
+{
+  "data": [
+    {
+      "id": "home-T-9g7m2Vfs",
+      "_type": "primaryMenuItem",
+      "attributes": { "name": "home", "label": "Home", "url": "/" }
+    }
+  ]
+}
