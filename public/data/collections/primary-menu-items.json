@@ -3,7 +3,7 @@
     {
       "id": "home-T-9g7m2Vfs",
       "_type": "primaryMenuItem",
-      "attributes": { "name": "home", "label": "Home", "url": "/" }
+      "attributes": { "slug": "home", "label": "Home", "url": "/" }
     }
   ]
 }
